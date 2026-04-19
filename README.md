@@ -20,7 +20,6 @@ This project analyzes social media engagement data using Power BI, Python, and S
 
 * Power BI (Dashboard Visualization)
 * Python (Pandas, Matplotlib)
-* SQL (Data Analysis)
 * Excel / CSV (Data Source)
 
 ---
@@ -29,7 +28,6 @@ This project analyzes social media engagement data using Power BI, Python, and S
 
 * `data/` → Dataset (social_data.csv)
 * `python/` → Data analysis notebook
-* `sql/` → SQL queries
 * `powerbi/` → Power BI dashboard file
 
 ---
